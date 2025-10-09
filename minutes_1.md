@@ -74,3 +74,7 @@
 - [ ] **Francesca** begins prototype layout in Figma or a similar design tool.  
 - [ ] **Jalesa** starts early testing research and prepares evaluation checklist.  
 - [ ] **Eric** finalizes GitHub repo setup and documentation.
+
+
+### Prototype
+[View Prototype](./prototype.pdf)
