@@ -1,0 +1,113 @@
+Online Learning Management System Project
+
+Product Vision Statement: To provide a user-friendly and flexible online platform that empowers students, instructors, and institutions to connect and share knowledge by simplifying course creation, streamlining enrollment, and providing personalized learning experiences through interactive lessons, assessments, and collaboration tools.
+
+Intended Users: Students, Instructors, and Administrators.
+
+Status: To-Do
+
+Estimate: 4 weeks
+
+Assigned: Francesca Onumah, Jalesa Drakes,Eric McClinton
+
+Reviewer: N/A
+
+User Stories: Epic 1: User Management & Authentication
+1.	As a student, I want to create an account using email/social login so I can access the LMS.
+
+
+2.	As an instructor, I want to register and set up my profile so students know who I am.
+
+
+3.	As an admin, I want to manage user roles (student, instructor, admin) so permissions are enforced.
+
+
+4.	As a user, I want to reset my password so I can regain access if I forget it.
+Epic 2: Course Creation & Management
+1.	As an instructor, I want to create, update, and delete courses so I can manage my teaching content.
+
+
+2.	As an instructor, I want to upload course materials (PDF, video, slides) so students can access learning resources.
+
+
+3.	As an instructor, I want to organize modules and lessons so courses are structured clearly.
+
+
+4.	As an admin, I want to approve or reject courses before publishing so quality is maintained.
+Epic 3: Enrollment & Access
+1.	As a student, I want to browse and search courses so I can find ones relevant to me.
+
+
+2.	As a student, I want to enroll in free/paid courses so I can start learning.
+
+
+3.	As an instructor, I want to set course prerequisites so only eligible students can enroll.
+
+
+4.	As a student, I want to track my enrolled courses so I know my learning progress.
+Epic 4: Learning Experience
+1.	As a student, I want to watch videos and access materials online so I can learn at my own pace.
+
+
+2.	As a student, I want to download course resources (if allowed) so I can study offline.
+
+
+3.	As a student, I want a progress tracker so I can see how much of the course I’ve completed.
+
+
+4.	As a student, I want to bookmark lessons so I can revisit them easily.
+Epic 5: Assessments & Quizzes
+1.	As an instructor, I want to create quizzes and assignments so I can evaluate students.
+
+
+2.	As a student, I want to take quizzes with instant feedback so I know my performance.
+
+
+3.	As an instructor, I want to grade assignments so students receive feedback.
+
+
+4.	As a student, I want to see my scores and performance history so I can track improvement.
+
+
+Epic 6: Communication & Collaboration
+1.	As a student, I want to post questions in discussion forums so I can interact with peers and instructors.
+
+
+2.	As an instructor, I want to answer questions and moderate discussions so I can guide students.
+
+
+3.	As a student, I want messaging/chat features so I can connect with instructors and classmates.
+
+
+4.	As a student, I want to receive notifications (email/in-app) so I don’t miss important updates.
+Epic 7: Analytics & Reporting
+1.	As an instructor, I want to see analytics on student engagement so I know how effective my course is.
+
+
+2.	As a student, I want to see my learning analytics (time spent, quiz performance) so I understand my progress.
+
+
+3.	As an admin, I want to generate system-wide reports so I can monitor overall platform usage.
+
+
+4.	As an admin, I want to track course popularity so I can highlight trending courses.
+
+
+Sprint: Sprint 1 – Foundation & Access (Authentication & User Management)
+ Goal: Users can register, log in, and access the system.
+After Sprint 1 → A working login system exists.
+Sprint 2 – Course Basics (Course Creation & Browsing)
+🎯Goal: Instructors can create courses and stdents can browse them.
+After Sprint 2 → Instructors can create courses, students can browse.
+Sprint 3 – Enrollment & Learning Experience
+ Goal: Students can enroll and start consuming course content.
+	After Sprint 3 → Students can actually start learning.
+Sprint 4 – Assessments & Progress
+ Goal: Students can be evaluated, and instructors can provide feedback.
+	By Sprint 4–5 → Full classroom experience with assessments &  communication.
+Sprint 5 – Communication & Collaboration
+ Goal: Enable engagement between students and instructors.
+By Sprint 4–5 → Full classroom experience with assessments & communication
+Sprint 6 – Analytics & Reporting
+ Goal: Provide insights for all stakeholders.
+By Sprint 6 → Analytics makes it production-ready.
